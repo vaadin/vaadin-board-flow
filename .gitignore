@@ -13,3 +13,4 @@ yarn.lock
 **/VAADIN/frontend/
 integration-tests/src/main/frontend/
 integration-tests/error-screenshots/
+.DS_Store
