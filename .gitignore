@@ -11,7 +11,7 @@ yarn.lock
 **.iml
 **/themes/**/styles.css
 **/VAADIN/frontend/
-integration-tests/src/main/frontend/
-integration-tests/error-screenshots/
+vaadin-board-integration-tests/error-screenshots/
+
 .DS_Store
 local.properties
