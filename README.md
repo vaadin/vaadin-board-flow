@@ -1,3 +1,7 @@
+ ⚠️ **This repository is deprecated**
+- Sources for this flow component can be found at https://github.com/vaadin/vaadin-flow-component
+- Tickets has been moved to the web component repository https://github.com/vaadin/vaadin-board/issues
+
 [![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/vaadin-board)
 [![Stars on Vaadin Directory](https://img.shields.io/vaadin-directory/star/vaadin-board.svg)](https://vaadin.com/directory/component/vaadin-board)
 
